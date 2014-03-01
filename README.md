@@ -3,7 +3,7 @@
 A Python bot that can automatically follow users and favorite tweets associated with a specific search query on Twitter. Also has the ability to unfollow all users not currently following you back.
 
 ##Algorithm
-It only follows user who have follower count > 2000 & following count > 2000 and the ratio of followers to follwing id greater then 0.6
+It only follows user who have follower count > 2000 & following count > 2000 and the ratio of followers to following is greater than 0.6
 
 I have found these modifications very helpful. 
 
