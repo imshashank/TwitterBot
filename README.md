@@ -1,7 +1,5 @@
 #Twitter Follow Bot
 
-Inspired by https://github.com/rhiever/twitter-follow-bot
-
 A Python bot that can automatically follow users and favorite tweets associated with a specific search query on Twitter. Also has the ability to unfollow all users not currently following you back.
 
 Algorithm
@@ -60,3 +58,5 @@ By default, the bot looks up the 100 most recent tweets. You can change this num
     auto_unfollow_nonfollowers()
   
 You will need to manually edit the code if you want to add special users that you will keep following even if they don't follow you back.
+
+Inspired by https://github.com/rhiever/twitter-follow-bot
