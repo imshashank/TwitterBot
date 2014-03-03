@@ -1,6 +1,6 @@
 from twitter import Twitter, OAuth, TwitterHTTPError
 
-# put your tokens, keys, secrets, and twitter handle in the following variables
+# put your twitter tokens, keys, secrets, and twitter handle in the following variables
 OAUTH_TOKEN = ""
 OAUTH_SECRET = ""
 CONSUMER_KEY = ""
